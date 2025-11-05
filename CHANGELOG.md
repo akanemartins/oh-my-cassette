@@ -27,3 +27,4 @@
 - docs: add a note about the defaults
 - docs: fix a small wording issue
 - fix: add a note about the defaults
+- fix: link the usage section
